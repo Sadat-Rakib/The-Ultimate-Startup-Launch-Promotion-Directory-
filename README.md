@@ -6,7 +6,7 @@ A curated, organized collection of launch platforms, startup directories, AI too
 
 Whether you're building a **SaaS, AI tool, mobile app, developer tool, or side project**, this directory helps you find relevant places to reach your first users.
 
-**154 destinations · 10 categories · No duplicate entries**
+**155 destinations · 10 categories · No duplicate entries**
 
 > **Note:** This is a resource directory, not a list of guaranteed active submission forms. Some older platforms may be inactive, have changed their URLs, or require editorial approval. Check each site's current rules before submitting.
 
@@ -44,7 +44,7 @@ Don't know where to begin? Choose the category that fits your product.
 | [8. Design & Specialist Resources](#8-design--specialist-resources) | 7 |
 | [9. SaaS Deals & Marketplaces](#9-saas-deals--marketplaces) | 5 |
 | [10. Reddit Communities](#10-reddit-communities) | 19 |
-| **Total** | **154** |
+| **Total** | **155** |
 
 ---
 
@@ -238,7 +238,7 @@ Don't know where to begin? Choose the category that fits your product.
 
 ## 5. AI Tools & Directories
 
-**19 platforms · Best for:** AI-powered applications, agents, LLM tools, automation products, and AI SaaS.
+**20 platforms · Best for:** AI-powered applications, agents, LLM tools, automation products, and AI SaaS.
 
 83. **[There's An AI For That](https://theresanaiforthat.com/)** — AI tools directory organized around tasks and use cases.
 
@@ -278,6 +278,8 @@ Don't know where to begin? Choose the category that fits your product.
 
 101. **[AI Collection](https://www.thataicollection.com/)** — Curated database of AI tools organized by category.
 
+102. **[Public Prompts](https://www.publicprompts.art/)** - AI-tools directory; owner submissions US$19.99 once plus tax before editorial review, refunded if declined.
+
 ---
 
 ## 6. Startup Media & PR
@@ -286,35 +288,35 @@ Don't know where to begin? Choose the category that fits your product.
 
 > These are primarily editorial destinations. Coverage is not guaranteed, and several do not accept ordinary directory submissions.
 
-102. **[ArcticStartup](https://arcticstartup.com/)** — Startup publication covering technology companies and founders, especially in Northern Europe.
+103. **[ArcticStartup](https://arcticstartup.com/)** — Startup publication covering technology companies and founders, especially in Northern Europe.
 
-103. **[Built In Chicago](https://www.builtinchicago.org/send-us-tip)** — Regional technology publication covering startups and businesses in Chicago.
+104. **[Built In Chicago](https://www.builtinchicago.org/send-us-tip)** — Regional technology publication covering startups and businesses in Chicago.
 
-104. **[GeekWire](https://geekwire.com/startup-list/)** — Technology and startup news publication covering emerging businesses.
+105. **[GeekWire](https://geekwire.com/startup-list/)** — Technology and startup news publication covering emerging businesses.
 
-105. **[Inc42](https://inc42.com/startup-submission/)** — Indian technology and startup publication featuring company stories and industry news.
+106. **[Inc42](https://inc42.com/startup-submission/)** — Indian technology and startup publication featuring company stories and industry news.
 
-106. **[HackerNoon](https://hackernoon.com/)** — Technology publishing platform for founder stories, technical tutorials, and startup insights.
+107. **[HackerNoon](https://hackernoon.com/)** — Technology publishing platform for founder stories, technical tutorials, and startup insights.
 
-107. **[MakeUseOf](https://www.makeuseof.com/about/)** — Consumer technology publication covering useful applications and digital products.
+108. **[MakeUseOf](https://www.makeuseof.com/about/)** — Consumer technology publication covering useful applications and digital products.
 
-108. **[Netted](https://www.netted.net/contact-us/)** — Historical digital product discovery newsletter; verify current activity.
+109. **[Netted](https://www.netted.net/contact-us/)** — Historical digital product discovery newsletter; verify current activity.
 
-109. **[NextBigWhat](https://nextbigwhat.com/)** — Technology, entrepreneurship, and startup news resource.
+110. **[NextBigWhat](https://nextbigwhat.com/)** — Technology, entrepreneurship, and startup news resource.
 
-110. **[SnapMunk](https://www.snapmunk.com/submit-your-startup/)** — Historical startup news and product submission website.
+111. **[SnapMunk](https://www.snapmunk.com/submit-your-startup/)** — Historical startup news and product submission website.
 
-111. **[Starter Story](https://starterstory.com/)** — Founder interviews and business case studies highlighting entrepreneurial experiences.
+112. **[Starter Story](https://starterstory.com/)** — Founder interviews and business case studies highlighting entrepreneurial experiences.
 
-112. **[Startup Beat](https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/)** — Startup news platform with historical pitching guidelines for featured stories.
+113. **[Startup Beat](https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/)** — Startup news platform with historical pitching guidelines for featured stories.
 
-113. **[State of Tech](https://stateoftech.net/advertise?submit-an-app-for-review)** — Historical tech publication with app-review opportunities.
+114. **[State of Tech](https://stateoftech.net/advertise?submit-an-app-for-review)** — Historical tech publication with app-review opportunities.
 
-114. **[Tabscape](https://www.tapscape.com/)** — Technology and mobile application news and reviews.
+115. **[Tabscape](https://www.tapscape.com/)** — Technology and mobile application news and reviews.
 
-115. **[Tech Pluto](https://www.techpluto.com/submit-a-startup/)** — Technology publication featuring startup stories and industry coverage.
+116. **[Tech Pluto](https://www.techpluto.com/submit-a-startup/)** — Technology publication featuring startup stories and industry coverage.
 
-116. **[The Changelog](https://github.com/thechangelog/ping)** — Developer-focused media platform accepting project suggestions for potential coverage.
+117. **[The Changelog](https://github.com/thechangelog/ping)** — Developer-focused media platform accepting project suggestions for potential coverage.
 
 ---
 
@@ -322,19 +324,19 @@ Don't know where to begin? Choose the category that fits your product.
 
 **7 platforms · Best for:** Startup visibility, company profiles, ecosystem networking, and investor research.
 
-117. **[AngelList](https://angel.co/)** — Startup and venture ecosystem platform; check its current services rather than assuming a general startup submission flow.
+118. **[AngelList](https://angel.co/)** — Startup and venture ecosystem platform; check its current services rather than assuming a general startup submission flow.
 
-118. **[Crunchbase](https://www.crunchbase.com/)** — Company database featuring startups, funding information, and business profiles.
+119. **[Crunchbase](https://www.crunchbase.com/)** — Company database featuring startups, funding information, and business profiles.
 
-119. **[F6S](https://www.f6s.com/)** — Founder ecosystem with startup programs, company profiles, and networking opportunities.
+120. **[F6S](https://www.f6s.com/)** — Founder ecosystem with startup programs, company profiles, and networking opportunities.
 
-120. **[Gust](https://www.gust.com/)** — Startup fundraising and investor relationship platform.
+121. **[Gust](https://www.gust.com/)** — Startup fundraising and investor relationship platform.
 
-121. **[Vator](https://www.vator.tv/)** — Startup-focused network and entrepreneurial news resource.
+122. **[Vator](https://www.vator.tv/)** — Startup-focused network and entrepreneurial news resource.
 
-122. **[StartupBlink](https://www.startupblink.com/)** — Global startup ecosystem mapping and startup discovery platform.
+123. **[StartupBlink](https://www.startupblink.com/)** — Global startup ecosystem mapping and startup discovery platform.
 
-123. **[Tech Map](https://thetechmap.com/)** — Technology company discovery and mapping resource; verify current activity.
+124. **[Tech Map](https://thetechmap.com/)** — Technology company discovery and mapping resource; verify current activity.
 
 ---
 
@@ -342,19 +344,19 @@ Don't know where to begin? Choose the category that fits your product.
 
 **7 platforms · Best for:** Landing-page showcases, specialist product discovery, and finding more directories.
 
-124. **[Land-book](https://land-book.com/guidelines)** — Showcase well-designed landing pages in a website inspiration gallery.
+125. **[Land-book](https://land-book.com/guidelines)** — Showcase well-designed landing pages in a website inspiration gallery.
 
-125. **[StackShare](https://stackshare.io/)** — Share technology stacks and discover tools used by software teams.
+126. **[StackShare](https://stackshare.io/)** — Share technology stacks and discover tools used by software teams.
 
-126. **[Startup Benchmarks](https://www.startupbenchmarks.com/)** — Startup metrics and benchmarking resource rather than a traditional launch platform.
+127. **[Startup Benchmarks](https://www.startupbenchmarks.com/)** — Startup metrics and benchmarking resource rather than a traditional launch platform.
 
-127. **[Saijo's Tools List](https://saijogeorge.com/best-marketing-tools/)** — Curated marketing software resource useful for researching relevant tool categories.
+128. **[Saijo's Tools List](https://saijogeorge.com/best-marketing-tools/)** — Curated marketing software resource useful for researching relevant tool categories.
 
-128. **[Submit.co](https://submit.co/)** — Directory of startup submission resources for finding additional promotional destinations.
+129. **[Submit.co](https://submit.co/)** — Directory of startup submission resources for finding additional promotional destinations.
 
-129. **[dir.directory](https://dir.directory/)** — Directory of directories that may help founders discover niche listing opportunities.
+130. **[dir.directory](https://dir.directory/)** — Directory of directories that may help founders discover niche listing opportunities.
 
-130. **[GrowthList](https://growthlist.co/)** — Directory focused on marketing and growth-related resources and products.
+131. **[GrowthList](https://growthlist.co/)** — Directory focused on marketing and growth-related resources and products.
 
 ---
 
@@ -364,15 +366,15 @@ Don't know where to begin? Choose the category that fits your product.
 
 > Many deal marketplaces involve revenue sharing, negotiated promotions, or specific partner requirements. Review the economics before applying.
 
-131. **[AppSumo](https://www.appsumo.com/)** — Software deals marketplace helping SaaS companies reach small-business buyers.
+132. **[AppSumo](https://www.appsumo.com/)** — Software deals marketplace helping SaaS companies reach small-business buyers.
 
-132. **[Dealify](https://dealify.com/)** — SaaS promotional deals and software discovery marketplace.
+133. **[Dealify](https://dealify.com/)** — SaaS promotional deals and software discovery marketplace.
 
-133. **[PitchGround](https://www.pitchground.com/)** — Software marketplace featuring SaaS promotions and lifetime deals.
+134. **[PitchGround](https://www.pitchground.com/)** — Software marketplace featuring SaaS promotions and lifetime deals.
 
-134. **[StackSocial](https://www.stacksocial.com/)** — Marketplace featuring software, technology, and digital product deals.
+135. **[StackSocial](https://www.stacksocial.com/)** — Marketplace featuring software, technology, and digital product deals.
 
-135. **[SaaSGang](https://saasgang.io/)** — SaaS deal marketplace from the original collection; verify current partner opportunities.
+136. **[SaaSGang](https://saasgang.io/)** — SaaS deal marketplace from the original collection; verify current partner opportunities.
 
 ---
 
@@ -382,43 +384,43 @@ Don't know where to begin? Choose the category that fits your product.
 
 > **Important:** Reddit communities have different self-promotion policies. Read the rules before posting. Share something useful, ask for feedback where appropriate, and avoid mass-posting the same promotional content.
 
-136. **[r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/)** — Recruit early testers and collect feedback on unfinished products.
+137. **[r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/)** — Recruit early testers and collect feedback on unfinished products.
 
-137. **[r/buildinpublic](https://www.reddit.com/r/buildinpublic/)** — Share product development updates and your startup journey.
+138. **[r/buildinpublic](https://www.reddit.com/r/buildinpublic/)** — Share product development updates and your startup journey.
 
-138. **[r/Coupons](https://www.reddit.com/r/coupons/)** — Share eligible product discounts where promotional posts are allowed.
+139. **[r/Coupons](https://www.reddit.com/r/coupons/)** — Share eligible product discounts where promotional posts are allowed.
 
-139. **[r/Design_Critiques](https://www.reddit.com/r/design_critiques/)** — Get feedback on product interfaces, websites, and visual design.
+140. **[r/Design_Critiques](https://www.reddit.com/r/design_critiques/)** — Get feedback on product interfaces, websites, and visual design.
 
-140. **[r/Entrepreneur](https://www.reddit.com/r/entrepreneur/)** — Discuss startup challenges, business strategies, and entrepreneurship.
+141. **[r/Entrepreneur](https://www.reddit.com/r/entrepreneur/)** — Discuss startup challenges, business strategies, and entrepreneurship.
 
-141. **[r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)** — Share your business-building journey and discuss lessons learned.
+142. **[r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)** — Share your business-building journey and discuss lessons learned.
 
-142. **[r/IMadeThis](https://www.reddit.com/r/imadethis/)** — Showcase something you built and receive community reactions.
+143. **[r/IMadeThis](https://www.reddit.com/r/imadethis/)** — Showcase something you built and receive community reactions.
 
-143. **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** — Discuss independent businesses, side projects, and entrepreneurship.
+144. **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** — Discuss independent businesses, side projects, and entrepreneurship.
 
-144. **[r/indiehackers](https://www.reddit.com/r/indiehackers/)** — Connect with independent makers and discuss startup-building progress.
+145. **[r/indiehackers](https://www.reddit.com/r/indiehackers/)** — Connect with independent makers and discuss startup-building progress.
 
-145. **[r/LadyBusiness](https://www.reddit.com/r/ladybusiness/)** — Community discussing women-led businesses and entrepreneurial experiences.
+146. **[r/LadyBusiness](https://www.reddit.com/r/ladybusiness/)** — Community discussing women-led businesses and entrepreneurial experiences.
 
-146. **[r/microsaas](https://www.reddit.com/r/microsaas/)** — Discuss micro-SaaS products, business models, and growth challenges.
+147. **[r/microsaas](https://www.reddit.com/r/microsaas/)** — Discuss micro-SaaS products, business models, and growth challenges.
 
-147. **[r/plugyourproduct](https://www.reddit.com/r/plugyourproduct/)** — Product-promotion-oriented community for sharing your startup.
+148. **[r/plugyourproduct](https://www.reddit.com/r/plugyourproduct/)** — Product-promotion-oriented community for sharing your startup.
 
-148. **[r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/)** — Request candid feedback on your startup, product, or landing page.
+149. **[r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/)** — Request candid feedback on your startup, product, or landing page.
 
-149. **[r/SaaS](https://www.reddit.com/r/SaaS/)** — Discuss SaaS growth, pricing, customer acquisition, and product development.
+150. **[r/SaaS](https://www.reddit.com/r/SaaS/)** — Discuss SaaS growth, pricing, customer acquisition, and product development.
 
-150. **[r/shamelessplug](https://www.reddit.com/r/shamelessplug/)** — Share promotional content within the community's posting rules.
+151. **[r/shamelessplug](https://www.reddit.com/r/shamelessplug/)** — Share promotional content within the community's posting rules.
 
-151. **[r/SideProject](https://www.reddit.com/r/sideproject/)** — Showcase an independently built product or side project.
+152. **[r/SideProject](https://www.reddit.com/r/sideproject/)** — Showcase an independently built product or side project.
 
-152. **[r/SmallBusiness](https://www.reddit.com/r/smallbusiness/)** — Discuss operations, marketing, and growth for small businesses.
+153. **[r/SmallBusiness](https://www.reddit.com/r/smallbusiness/)** — Discuss operations, marketing, and growth for small businesses.
 
-153. **[r/Startups](https://www.reddit.com/r/startups/)** — Founder discussions, startup advice, and designated promotional opportunities.
+154. **[r/Startups](https://www.reddit.com/r/startups/)** — Founder discussions, startup advice, and designated promotional opportunities.
 
-154. **[r/thesidehustle](https://www.reddit.com/r/thesidehustle/)** — Community discussing side businesses and independent projects.
+155. **[r/thesidehustle](https://www.reddit.com/r/thesidehustle/)** — Community discussing side businesses and independent projects.
 
 ---
 
@@ -487,15 +489,15 @@ When your product improves, update screenshots, descriptions, features, and rele
 | Founder communities & publishing | 10 |
 | Startup & SaaS directories | 24 |
 | Software reviews & comparisons | 23 |
-| AI tools & directories | 19 |
+| AI tools & directories | 20 |
 | Startup media & PR | 15 |
 | Founder networks & databases | 7 |
 | Design & specialist resources | 7 |
 | SaaS deals & marketplaces | 5 |
 | Reddit communities | 19 |
-| **Total** | **154** |
+| **Total** | **155** |
 
-**Important:** All 154 entries appear once in this directory. Inclusion does not mean a platform is currently active, free, accepting submissions, or guaranteed to provide exposure.
+**Important:** All 155 entries appear once in this directory. Inclusion does not mean a platform is currently active, free, accepting submissions, or guaranteed to provide exposure.
 
 ---
 
