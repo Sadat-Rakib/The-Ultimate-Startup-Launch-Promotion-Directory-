@@ -6,7 +6,7 @@ A curated, organized collection of launch platforms, startup directories, AI too
 
 Whether you're building a **SaaS, AI tool, mobile app, developer tool, or side project**, this directory helps you find relevant places to reach your first users.
 
-**154 destinations · 10 categories · No duplicate entries**
+**155 destinations · 10 categories · No duplicate entries**
 
 > **Note:** This is a resource directory, not a list of guaranteed active submission forms. Some older platforms may be inactive, have changed their URLs, or require editorial approval. Check each site's current rules before submitting.
 
@@ -38,13 +38,13 @@ Don't know where to begin? Choose the category that fits your product.
 | [2. Founder Communities & Publishing](#2-founder-communities--publishing) | 10 |
 | [3. Startup & SaaS Directories](#3-startup--saas-directories) | 24 |
 | [4. Software Reviews & Comparisons](#4-software-reviews--comparisons) | 23 |
-| [5. AI Tools & Directories](#5-ai-tools--directories) | 19 |
+| [5. AI Tools & Directories](#5-ai-tools--directories) | 20 |
 | [6. Startup Media & PR](#6-startup-media--pr) | 15 |
 | [7. Founder Networks & Databases](#7-founder-networks--databases) | 7 |
 | [8. Design & Specialist Resources](#8-design--specialist-resources) | 7 |
 | [9. SaaS Deals & Marketplaces](#9-saas-deals--marketplaces) | 5 |
 | [10. Reddit Communities](#10-reddit-communities) | 19 |
-| **Total** | **154** |
+| **Total** | **155** |
 
 ---
 
@@ -238,7 +238,7 @@ Don't know where to begin? Choose the category that fits your product.
 
 ## 5. AI Tools & Directories
 
-**19 platforms · Best for:** AI-powered applications, agents, LLM tools, automation products, and AI SaaS.
+**20 platforms · Best for:** AI-powered applications, agents, LLM tools, automation products, and AI SaaS.
 
 83. **[There's An AI For That](https://theresanaiforthat.com/)** — AI tools directory organized around tasks and use cases.
 
@@ -277,6 +277,7 @@ Don't know where to begin? Choose the category that fits your product.
 100. **[SaaS AI Tools](https://www.saasaitools.com/)** — Directory focused on AI-powered SaaS applications.
 
 101. **[AI Collection](https://www.thataicollection.com/)** — Curated database of AI tools organized by category.
+102. **[Add AI Directory](https://www.addaidirectory.com/)** — A curated directory of AI agents organized by category, with editorial reviews and free submissions.
 
 ---
 
@@ -487,15 +488,15 @@ When your product improves, update screenshots, descriptions, features, and rele
 | Founder communities & publishing | 10 |
 | Startup & SaaS directories | 24 |
 | Software reviews & comparisons | 23 |
-| AI tools & directories | 19 |
+| AI tools & directories | 20 |
 | Startup media & PR | 15 |
 | Founder networks & databases | 7 |
 | Design & specialist resources | 7 |
 | SaaS deals & marketplaces | 5 |
 | Reddit communities | 19 |
-| **Total** | **154** |
+| **Total** | **155** |
 
-**Important:** All 154 entries appear once in this directory. Inclusion does not mean a platform is currently active, free, accepting submissions, or guaranteed to provide exposure.
+**Important:** All 155 entries appear once in this directory. Inclusion does not mean a platform is currently active, free, accepting submissions, or guaranteed to provide exposure.
 
 ---
 
